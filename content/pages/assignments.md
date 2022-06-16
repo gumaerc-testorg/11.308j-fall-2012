@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the journals students keep throughout
+  the semester, the research paper and final presentation, and examples of student
+  work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
