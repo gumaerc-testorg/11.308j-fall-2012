@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides information on the readings required for each week
+  of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ebde0039-d561-423c-d400-9ee20f03662c
 ---
 
-The readings below represent the required readings for each week. Please see [Further Reading]({{< baseurl >}}/pages/readings/further-reading) for a list of additional readings.
+The readings below represent the required readings for each week. Please see {{% resource_link 4a1bc61d-149e-e4da-ab5f-f7bda7f8d1de "Further Reading" %}} for a list of additional readings.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -36,7 +41,7 @@ Williams, Raymond. "Ideas of Nature." In _Problems in Materialism and Culture_. 
 
 Spirn, Anne Whiston. "Ecological Urbanism." In _Resilience in Ecology and Urban Design: Linking Theory and Practice for Sustainable Cities_. Edited by M. L. Cadenasso Pickett, and Brian McGrath. Springer, 2013. ISBN: 9789400753433. \[Preview with [Google Books](http://books.google.com/books?id=8W1HAAAAQBAJ&pg=PA29=onepage)\]
 
-[\[Further Reading\]]({{< baseurl >}}/pages/readings/further-reading#Further_Reading1)
+{{% resource_link "4a1bc61d-149e-e4da-ab5f-f7bda7f8d1de" "\[Further Reading\]" "#Further_Reading1" %}}
 
 
 {{< tdclose >}}
@@ -54,7 +59,7 @@ Urban Nature and City Design: Practice, Theory, and Tradition I
 
 Spirn, Anne Whiston. _The Granite Garden: Urban Nature and Human Design_. Basic Books, 1984. ISBN: 9780465026999.
 
-[\[Further Reading\]]({{< baseurl >}}/pages/readings/further-reading#Further_Reading2)
+{{% resource_link "4a1bc61d-149e-e4da-ab5f-f7bda7f8d1de" "\[Further Reading\]" "#Further_Reading2" %}}
 
 
 {{< tdclose >}}
@@ -78,11 +83,11 @@ Hise, Greg, and William Deverell. _Eden By Design: The 1930 Olmsted-Bartholomew 
 
 Or
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Philadelphia: Philadelphia Water Department. (PDF - 4.49MB) _Long-term Combined Sewer Overflow Program: Program Summary_.](http://www.phillywatersheds.org/doc/GCCW_AmendedJune2011_LOWRES-web.pdf)
+[Philadelphia: Philadelphia Water Department. (PDF - 4.49MB) _Long-term Combined Sewer Overflow Program: Program Summary_.](http://www.phillywatersheds.org/doc/GCCW_AmendedJune2011_LOWRES-web.pdf)
 
 Madden, Sarah. [_Choosing Green Over Gray: Philadelphia's Innovative Stormwater Infrastructure Plan_](http://dspace.mit.edu/handle/1721.1/59750). MIT MCP Thesis, 2010.
 
-[\[Further Reading\]]({{< baseurl >}}/pages/readings/further-reading#Further_Reading3)
+{{% resource_link "4a1bc61d-149e-e4da-ab5f-f7bda7f8d1de" "\[Further Reading\]" "#Further_Reading3" %}}
 
 
 {{< tdclose >}}
@@ -106,7 +111,7 @@ Spirn, Anne Whiston. "Restoring Mill Creek: Landscape Literacy, Environmental Hi
 
 [West Philadelphia Landscape Project website](http://www.wplp.net/).
 
-[\[Further Reading\]]({{< baseurl >}}/pages/readings/further-reading#Further_Reading4)
+{{% resource_link "4a1bc61d-149e-e4da-ab5f-f7bda7f8d1de" "\[Further Reading\]" "#Further_Reading4" %}}
 
 
 {{< tdclose >}}
@@ -144,7 +149,7 @@ Dunne, Thomas, and Luna Leopold. _Water in Environmental Planning_. W. H. Freema
 
 [Tree People](http://treepeople.org/) (["Rainwater as a Resource."](https://www.treepeople.org/resources/rainwater-resource) in particular).
 
-[\[Further Reading\]]({{< baseurl >}}/pages/readings/further-reading#Further_Reading6)
+{{% resource_link "4a1bc61d-149e-e4da-ab5f-f7bda7f8d1de" "\[Further Reading\]" "#Further_Reading6" %}}
 
 
 {{< tdclose >}}
@@ -162,7 +167,7 @@ Select one of the two sets of readings below.
 
 Arnfield, A. John. "[Two Decades of Urban Climate Research: A Review of Turbulence, Exchanges of Energy and Water, and the Urban Heat Island](http://dx.doi.org/10.1002/joc.859)." _International Journal of Climatology_ 23, no. 1 (2003): 1–26.
 
-Spirn, Anne Whiston. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Better Air Quality at Street Level: Strategies for Urban Design_." (PDF - 3.06MB)](http://www.annewhistonspirn.com/pdf/Air-Quality_1986.pdf) 1986.
+Spirn, Anne Whiston. ["_Better Air Quality at Street Level: Strategies for Urban Design_." (PDF - 3.06MB)](http://www.annewhistonspirn.com/pdf/Air-Quality_1986.pdf) 1986.
 
 Or
 
@@ -174,7 +179,7 @@ Pickett, S. T. A., M. L. Cadenasso, et al. "[Resilient Cities: Meaning, Models a
 
 [Casey Trees website](http://www.caseytrees.org/)
 
-[\[Further Reading\]]({{< baseurl >}}/pages/readings/further-reading#Further_Reading7)
+{{% resource_link "4a1bc61d-149e-e4da-ab5f-f7bda7f8d1de" "\[Further Reading\]" "#Further_Reading7" %}}
 
 
 {{< tdclose >}}
@@ -252,7 +257,7 @@ Reflections: Lessons for Cities
 
 Schön, Donald. _The Reflective Practitioner: How Professionals Think in Action_. Basic Books, 1983.
 
-[\[Further Reading\]]({{< baseurl >}}/pages/readings/further-reading#Further_Reading13)
+{{% resource_link "4a1bc61d-149e-e4da-ab5f-f7bda7f8d1de" "\[Further Reading\]" "#Further_Reading13" %}}
 
 
 {{< tdclose >}}
