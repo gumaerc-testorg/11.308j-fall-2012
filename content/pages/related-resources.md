@@ -11,22 +11,22 @@ uid: 123d9850-bade-75e6-0d80-07dbec88681c
 Related Links
 -------------
 
-[Anne Whiston Spirn's website](http://www.annewhistonspirn.com/)\-- contains links to other class websites, information on Professor Spirn's books, and other additional resources.
+{{% resource_link "8dd35a3a-4b45-43d2-a929-9793af51ac5d" "Anne Whiston Spirn's website" %}}\-- contains links to other class websites, information on Professor Spirn's books, and other additional resources.
 
-[West Philadelphia Landscape Project website](http://www.wplp.net/)
+{{% resource_link "3384490b-db66-49b5-845e-bc8b3be32463" "West Philadelphia Landscape Project website" %}}
 
-[Tree People of Los Angeles website](http://treepeople.org/)
+{{% resource_link "37f54f5c-d662-4210-b4ea-67fadf2eb5de" "Tree People of Los Angeles website" %}}
 
-[Battle McCarthy website](http://www.prsarchitects.com/practice/consultants/battle-mccarthy)
+{{% resource_link "cf2d3bba-e814-47f6-b411-6779589fd661" "Battle McCarthy website" %}}
 
-[Casey Trees](http://www.caseytrees.org/)
+{{% resource_link "b96dc917-b580-4148-89f8-a72a9c718c91" "Casey Trees" %}}
 
-[Atelier Dreiseit l](http://www.dreiseitl.de/)
+{{% resource_link "6fba7622-e219-4c85-9be7-d467f18beaf2" "Atelier Dreiseit l" %}}
 
-[Wenk Associates](http://www.wenkla.com/)
+{{% resource_link "e3c58588-0127-4a5b-8ee6-7445b55b4809" "Wenk Associates" %}}
 
-[American Forests](https://www.americanforests.org/our-work/urban-forestry/#stories)
+{{% resource_link "695b34cc-86d3-417a-a3c2-ad9c54edd1dc" "American Forests" %}}
 
-[PBS NOVA: Storm That Drowned a City](http://www.pbs.org/wgbh/nova/orleans/)
+{{% resource_link "ddbc93eb-81c5-45c2-8b79-e83bb9cb0378" "PBS NOVA: Storm That Drowned a City" %}}
 
-[Channel G](http://mcdsp.com/plug-ins/channel-g/)
+{{% resource_link "21070985-5f5b-4bf5-bfe6-9821a339ba97" "Channel G" %}}
